@@ -1,0 +1,32 @@
+* {
+  border: solid 0px !important;
+}
+
+.content {
+  color: #fff !important;
+}
+
+.ui .segment {
+  background-color: #00000000;
+  margin-bottom: 50px;
+}
+
+.prompt {
+  border-top-left-radius: 50px !important;
+  border-bottom-left-radius: 50px !important;
+  background-color: #121212 !important;
+  border: solid 5px !important;
+  border-color: #303030 !important;
+  color: white !important;
+  padding: 10px !important;
+  padding-left: 30px !important;
+  font-size: 20px !important;
+}
+
+.button {
+  background-color: #303030 !important;
+  border-top-right-radius: 50px !important;
+  color: #fff !important;
+  border-bottom-right-radius: 50px !important;
+  font-size: 20px !important;
+}
